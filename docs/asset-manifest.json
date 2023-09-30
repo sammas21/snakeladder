@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/snakeladder/static/css/main.a2b65f3f.css",
+    "main.js": "/snakeladder/static/js/main.247b622e.js",
+    "static/js/787.09c31413.chunk.js": "/snakeladder/static/js/787.09c31413.chunk.js",
+    "index.html": "/snakeladder/index.html",
+    "main.a2b65f3f.css.map": "/snakeladder/static/css/main.a2b65f3f.css.map",
+    "main.247b622e.js.map": "/snakeladder/static/js/main.247b622e.js.map",
+    "787.09c31413.chunk.js.map": "/snakeladder/static/js/787.09c31413.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2b65f3f.css",
+    "static/js/main.247b622e.js"
+  ]
+}
